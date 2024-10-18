@@ -1,4 +1,7 @@
 
+# JoeyYu Assignment 6
+
+![CI](https://github.com/yuyue1999/JoeyYu_Assignment6/actions/workflows/CI.yml/badge.svg)
 
 # Database Schema and Query Explanation
 
